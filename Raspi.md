@@ -5,5 +5,5 @@ Utilisation d'une raspberry pi 5 ave l'OS : ......
 [doc](https://www.raspberrypi.com/documentation/computers/raspberry-pi-5.html)
 
 ## Detection de pot
-Utilisation du module caméra V3 raspberry grand angles (120°)
+Utilisation du module caméra V3 raspberry grand angles (120°)  
 c++ avec cmake pour compiler le projet, opencv v4.6
